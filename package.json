@@ -15,5 +15,12 @@
     "swig" : "~1.4.2",
     "morgan": "~1.5.1",
     "serve-favicon": "~2.2.0"
+  },
+  "engines": {
+    "node": "0.12.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/destromas1/node-app-starter"
   }
 }
